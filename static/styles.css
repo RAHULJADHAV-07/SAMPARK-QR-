@@ -95,6 +95,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 #background_color{
     height: 10px;
